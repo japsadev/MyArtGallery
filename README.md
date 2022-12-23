@@ -1,5 +1,6 @@
 # MyArtGallery
 The technology I use while making this application is Core Data
+Designing the icon of the application to artificial intelligence
 
 My Art Gallery app is a mobile app to help users Discover and review artworks. It gives the app the ability to upload the items of the artists you want and it helps the Users treasure more information about the border.
 
