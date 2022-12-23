@@ -11,5 +11,5 @@ My Art Gallery application is the ideal mobile application for art lovers. The a
 
 ![MAG gif (1)](https://user-images.githubusercontent.com/62521215/209349412-d233451d-6c4c-43b9-8944-4dc9847c04ba.gif)
 
-Application icon designed by artificial intelligence 👇
+
 ![icon](https://user-images.githubusercontent.com/62521215/209349648-90a3d96e-98f5-4c54-9fe0-6be39cd2ce77.png)
